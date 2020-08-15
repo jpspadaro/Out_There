@@ -16,7 +16,12 @@ _global_script_class_icons={
 [application]
 
 config/name="Out There"
+run/main_scene="res://Splash.tscn"
 config/icon="res://icon.png"
+
+[autoload]
+
+GameData="*res://GameData.tscn"
 
 [rendering]
 
