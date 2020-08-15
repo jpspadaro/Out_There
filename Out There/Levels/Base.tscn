@@ -59,4 +59,3 @@ material = SubResource( 4 )
 
 [node name="Player" parent="Test Floor/CollisionShape2" instance=ExtResource( 2 )]
 transform = Transform( 0.999997, 0, 0, 0, 0.999997, 0, 0, 0, 0.999997, 0.00149504, 79.2737, 0.0388292 )
-gravity = 9.8
