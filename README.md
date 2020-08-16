@@ -10,11 +10,15 @@ Blender version 2.83.4 LTS
 ### Todo for game jam completion deadline
 - [ ] Modeling
 	- [ ] Levels
+		- [ ] Tunnel system
 	- [ ] Assets
 	- [ ] Enemies
+		- [ ] Tentacle
 - [ ] Game Logic
 	- [ ] Player
 		- [ ] Inventory
 		- [ ] Ray-traced interaction
+		- [ ] Lighting
 	- [ ] Room-level puzzle
+	- [ ] Enemy collision handling
 - [ ] Textures
