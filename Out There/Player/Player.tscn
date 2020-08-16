@@ -16,3 +16,6 @@ shape = SubResource( 1 )
 [node name="Head" type="Spatial" parent="."]
 
 [node name="Camera" type="Camera" parent="Head"]
+
+[node name="OmniLight" type="OmniLight" parent="."]
+transform = Transform( 1, 0, 0, 0, 0.866025, 0.5, 0, -0.5, 0.866025, 0, 0, 0 )
