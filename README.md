@@ -28,5 +28,4 @@ Blender version 2.83.4 LTS
 ### Release page
 Not released, but you'll eventually be able to play it here:
 
-
-<iframe src="https://itch.io/embed/732200?linkback=true&amp;border_width=5&amp;bg_color=4f6781&amp;fg_color=e4a672&amp;link_color=9e2835&amp;border_color=68515b" width="560" height="175" frameborder="0"><a href="https://jpspadaro.itch.io/out-there">Out There by jpspadaro</a></iframe>
+[Out There by jpspadaro](https://jpspadaro.itch.io/out-there)
