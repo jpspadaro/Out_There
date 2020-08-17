@@ -22,6 +22,8 @@ Blender version 2.83.4 LTS
 	- [ ] Room-level puzzle
 	- [ ] Enemy collision handling
 - [ ] Textures
+	- [X] Added a bunch of new ground and building textures.
+	- [ ] Fix using textures for materials...surface detail?
 
 ### Release page
 Not released, but you'll eventually be able to play it here:
